@@ -288,7 +288,7 @@
     Fornece o número de série do dispositivo. Este campo é definido apenas ao solicitar atestado dos identificadores do dispositivo.
     ]]></string>
     <string name="authorization_list_attestationIdImei_description"><![CDATA[
-    Fornece o IMEI de um dos rádios do dispositvo para operações de geração/importação de chaves atestadas. Este campo é definido apenas ao solicitar atestado dos identificadores do dispositivo.
+    Fornece o IMEI de um dos rádios do dispositivo para operações de geração/importação de chaves atestadas. Este campo é definido apenas ao solicitar atestado dos identificadores do dispositivo.
     ]]></string>
     <string name="authorization_list_attestationIdSecondImei_description"><![CDATA[
     Fornece um IMEI adicional de um dos rádios do dispositivo para operações de geração/importação de chaves atestadas. Este campo é definido apenas ao solicitar atestado dos identificadores do dispositivo.
